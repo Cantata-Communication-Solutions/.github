@@ -50,8 +50,7 @@ We welcome feedback, testing, and contributions from the community.
 
 ### 🔗 Repositories
 
-- [Haptique RS90](https://github.com/cantatacsfr/haptique-rs90)
-- [Haptique RS90x](https://github.com/cantatacsfr/haptique-rs90x)
+- [Build Haptique App](https://github.com/Cantata-Communication-Solutions/haptique-remote-dev-guide)
 - [Bug & Feature Tracker](https://github.com/cantatacsfr/feature-bug_report_n_tracker)
 
 ---
@@ -60,10 +59,13 @@ We welcome feedback, testing, and contributions from the community.
 
 Stay connected and help shape the future of Haptique:
 
-- 🐦 Twitter: [@CantataCS](https://twitter.com/CantataCS)
-- 💬 Discord: [Join Community](https://discord.gg/haptique) *(example link)*
-- 📘 Facebook: [Cantata Communication Solutions](https://www.facebook.com/CantataCS)
-- 🧠 Reddit: [r/Haptique](https://www.reddit.com/r/Haptique/)
+- [X](https://twitter.com/CantataCS)
+- [Youtube](https://www.youtube.com/@cantatacsfr)
+- [Join Community](https://community.haptique.io)
+- [FB](https://www.facebook.com/CantataCS)
+- [Reddit](https://www.reddit.com/r/Haptique/)
+- [Insta](https://www.instagram.com/cantatacsfr)
+- [LinkedIn](https://www.linkedin.com/company/cantata-communication-solutions)
 
 ---
 
